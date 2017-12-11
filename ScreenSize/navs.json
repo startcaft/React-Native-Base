@@ -1,0 +1,37 @@
+{
+    "data":[
+        {
+            "imgUrl":"https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2263582212.jpg",
+            "navTitle":"分类查询"
+        },
+        {
+            "imgUrl":"https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2263582212.jpg",
+            "navTitle":"物流信息"
+        },
+        {
+            "imgUrl":"https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2263582212.jpg",
+            "navTitle":"购物车"
+        },
+        {
+            "imgUrl":"https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2263582212.jpg",
+            "navTitle":"我的京东"
+        },
+        {
+            "imgUrl":"https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2263582212.jpg",
+            "navTitle":"充值"
+        },
+        {
+            "imgUrl":"https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2263582212.jpg",
+            "navTitle":"领卷中心"
+        },
+        {
+            "imgUrl":"https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2263582212.jpg",
+            "navTitle":"京东超市"
+        },
+        {
+            "imgUrl":"https://img3.doubanio.com/view/movie_poster_cover/mpst/public/p2263582212.jpg",
+            "navTitle":"我的关注"
+        }
+    ]
+    
+}
