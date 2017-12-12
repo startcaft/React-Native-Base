@@ -60,8 +60,8 @@ const loginStyle = StyleSheet.create({
         width:width,
         textAlign:'center',
         padding: 0,
-        borderWidth:1,
-        borderColor:'#eee',
+        backgroundColor:'white',
+        marginBottom:1
     },
     loginBtn:{
         marginTop:20,
